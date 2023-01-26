@@ -1,5 +1,6 @@
 # Esp32-Reinicio-Con-Codigo
 
+### Codigo
 ```c++
 void setup()
 {
@@ -20,4 +21,5 @@ void loop()
 }
 ```
 
+### Debug
 <img src="https://github.com/IDiegoUlises/Esp32-Reinicio-Con-Codigo/blob/main/Images/Puerto-Serial.png" />
