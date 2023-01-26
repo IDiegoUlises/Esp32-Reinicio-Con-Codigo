@@ -1,4 +1,4 @@
-# Esp32-Reinicio-Con-Codigo
+# Esp32 Reinicio Con Codigo
 
 ### Codigo
 ```c++
@@ -20,8 +20,10 @@ void loop()
   ESP.restart();
 }
 ```
-* Con este codigo se realiza un reinicio del esp32 cada 5 segundos
+
+* Se realiza un reinicio del microcontrolador cada 5 segundos
 
 ### Debug
 <img src="https://github.com/IDiegoUlises/Esp32-Reinicio-Con-Codigo/blob/main/Images/Puerto-Serial.png" />
-* El puerto serial muestra que hubo un reinicio en el microcontrolador
+
+* El puerto serial muestra la evidencia que hubo un reinicio en 5 segundos
