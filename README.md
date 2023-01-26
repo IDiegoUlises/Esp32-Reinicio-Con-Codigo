@@ -19,3 +19,5 @@ void loop()
   ESP.restart();
 }
 ```
+
+<img src="https://github.com/IDiegoUlises/Esp32-Reinicio-Con-Codigo/blob/main/Images/Puerto-Serial.png" />
